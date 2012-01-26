@@ -17,5 +17,5 @@ Then in your view:
 Or if you're using a Smarty view:
 
 ```smarty
-{$flash}
+{flash}
 ```
